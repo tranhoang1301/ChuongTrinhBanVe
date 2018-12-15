@@ -1,0 +1,36 @@
+E:\LTTQ\PhanMemBanVeXemPhim\PhanMemBanVeXemPhim\bin\Debug\PhanMemBanVeXemPhim.exe.config
+E:\LTTQ\PhanMemBanVeXemPhim\PhanMemBanVeXemPhim\bin\Debug\PhanMemBanVeXemPhim.exe
+E:\LTTQ\PhanMemBanVeXemPhim\PhanMemBanVeXemPhim\bin\Debug\PhanMemBanVeXemPhim.pdb
+E:\LTTQ\PhanMemBanVeXemPhim\PhanMemBanVeXemPhim\obj\Debug\PhanMemBanVeXemPhim.csprojAssemblyReference.cache
+E:\LTTQ\PhanMemBanVeXemPhim\PhanMemBanVeXemPhim\obj\Debug\PhanMemBanVeXemPhim.Form1.resources
+E:\LTTQ\PhanMemBanVeXemPhim\PhanMemBanVeXemPhim\obj\Debug\PhanMemBanVeXemPhim.Properties.Resources.resources
+E:\LTTQ\PhanMemBanVeXemPhim\PhanMemBanVeXemPhim\obj\Debug\PhanMemBanVeXemPhim.csproj.GenerateResource.cache
+E:\LTTQ\PhanMemBanVeXemPhim\PhanMemBanVeXemPhim\obj\Debug\PhanMemBanVeXemPhim.csproj.CoreCompileInputs.cache
+E:\LTTQ\PhanMemBanVeXemPhim\PhanMemBanVeXemPhim\obj\Debug\PhanMemBanVeXemPhim.exe
+E:\LTTQ\PhanMemBanVeXemPhim\PhanMemBanVeXemPhim\obj\Debug\PhanMemBanVeXemPhim.pdb
+E:\LTTQ\PhanMemBanVeXemPhim\PhanMemBanVeXemPhim\obj\Debug\PhanMemBanVeXemPhim.frmDanhMucPhim.resources
+E:\LTTQ\PhanMemBanVeXemPhim\PhanMemBanVeXemPhim\obj\Debug\PhanMemBanVeXemPhim.frmKhachHang.resources
+C:\Users\hoangtran\Desktop\PhanMemBanVeXemPhim\PhanMemBanVeXemPhim\bin\Debug\PhanMemBanVeXemPhim.exe.config
+C:\Users\hoangtran\Desktop\PhanMemBanVeXemPhim\PhanMemBanVeXemPhim\bin\Debug\PhanMemBanVeXemPhim.exe
+C:\Users\hoangtran\Desktop\PhanMemBanVeXemPhim\PhanMemBanVeXemPhim\bin\Debug\PhanMemBanVeXemPhim.pdb
+C:\Users\hoangtran\Desktop\PhanMemBanVeXemPhim\PhanMemBanVeXemPhim\obj\Debug\PhanMemBanVeXemPhim.csprojAssemblyReference.cache
+C:\Users\hoangtran\Desktop\PhanMemBanVeXemPhim\PhanMemBanVeXemPhim\obj\Debug\PhanMemBanVeXemPhim.Form1.resources
+C:\Users\hoangtran\Desktop\PhanMemBanVeXemPhim\PhanMemBanVeXemPhim\obj\Debug\PhanMemBanVeXemPhim.frmDanhMucPhim.resources
+C:\Users\hoangtran\Desktop\PhanMemBanVeXemPhim\PhanMemBanVeXemPhim\obj\Debug\PhanMemBanVeXemPhim.frmKhachHang.resources
+C:\Users\hoangtran\Desktop\PhanMemBanVeXemPhim\PhanMemBanVeXemPhim\obj\Debug\PhanMemBanVeXemPhim.Properties.Resources.resources
+C:\Users\hoangtran\Desktop\PhanMemBanVeXemPhim\PhanMemBanVeXemPhim\obj\Debug\PhanMemBanVeXemPhim.csproj.GenerateResource.cache
+C:\Users\hoangtran\Desktop\PhanMemBanVeXemPhim\PhanMemBanVeXemPhim\obj\Debug\PhanMemBanVeXemPhim.csproj.CoreCompileInputs.cache
+C:\Users\hoangtran\Desktop\PhanMemBanVeXemPhim\PhanMemBanVeXemPhim\obj\Debug\PhanMemBanVeXemPhim.exe
+C:\Users\hoangtran\Desktop\PhanMemBanVeXemPhim\PhanMemBanVeXemPhim\obj\Debug\PhanMemBanVeXemPhim.pdb
+D:\lập trình trực quan\PhanMemBanVeXemPhim\PhanMemBanVeXemPhim\bin\Debug\PhanMemBanVeXemPhim.exe.config
+D:\lập trình trực quan\PhanMemBanVeXemPhim\PhanMemBanVeXemPhim\bin\Debug\PhanMemBanVeXemPhim.exe
+D:\lập trình trực quan\PhanMemBanVeXemPhim\PhanMemBanVeXemPhim\bin\Debug\PhanMemBanVeXemPhim.pdb
+D:\lập trình trực quan\PhanMemBanVeXemPhim\PhanMemBanVeXemPhim\obj\Debug\PhanMemBanVeXemPhim.csprojAssemblyReference.cache
+D:\lập trình trực quan\PhanMemBanVeXemPhim\PhanMemBanVeXemPhim\obj\Debug\PhanMemBanVeXemPhim.Form1.resources
+D:\lập trình trực quan\PhanMemBanVeXemPhim\PhanMemBanVeXemPhim\obj\Debug\PhanMemBanVeXemPhim.frmDanhMucPhim.resources
+D:\lập trình trực quan\PhanMemBanVeXemPhim\PhanMemBanVeXemPhim\obj\Debug\PhanMemBanVeXemPhim.frmKhachHang.resources
+D:\lập trình trực quan\PhanMemBanVeXemPhim\PhanMemBanVeXemPhim\obj\Debug\PhanMemBanVeXemPhim.Properties.Resources.resources
+D:\lập trình trực quan\PhanMemBanVeXemPhim\PhanMemBanVeXemPhim\obj\Debug\PhanMemBanVeXemPhim.csproj.GenerateResource.cache
+D:\lập trình trực quan\PhanMemBanVeXemPhim\PhanMemBanVeXemPhim\obj\Debug\PhanMemBanVeXemPhim.csproj.CoreCompileInputs.cache
+D:\lập trình trực quan\PhanMemBanVeXemPhim\PhanMemBanVeXemPhim\obj\Debug\PhanMemBanVeXemPhim.exe
+D:\lập trình trực quan\PhanMemBanVeXemPhim\PhanMemBanVeXemPhim\obj\Debug\PhanMemBanVeXemPhim.pdb
